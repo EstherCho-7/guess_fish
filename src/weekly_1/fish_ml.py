@@ -1,12 +1,12 @@
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
 
-def guess_fish(length, weight, answer):
+def guess_fish():
     fish_data=[]
     fish_target=[]
 
     k=5
-    model=KNeighborsClassifire(n_neighbors=k)
+    model=KNeighborsClassifier(n_neighbors=k)
 
     while True:
         length=float(input("물고기의 길이: "))
