@@ -1,6 +1,6 @@
 [project]
 name = "weekly_1"
-version = "0.2.0"
+version = "0.2.3"
 description = "Weekly Project_Making a program that guess species of fish - Bream or Smelt"
 authors = [
     {name = "EstherCho-7", email = "dkgkqm777@gmail.com"},
@@ -12,7 +12,7 @@ license = {text = "MIT"}
 
 [project.scripts]
 guess-fish="weekly_1.fish_ml:guess_fish"
-
+plot="weekly_1.plot:plot_data"
 
 [tool.pdm]
 distribution = true 
