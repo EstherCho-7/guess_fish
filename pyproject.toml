@@ -1,6 +1,6 @@
 [project]
 name = "weekly_1"
-version = "0.2.5"
+version = "0.2.6"
 description = "Weekly Project_Making a program that guess species of fish - Bream or Smelt"
 authors = [
     {name = "EstherCho-7", email = "dkgkqm777@gmail.com"},
