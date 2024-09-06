@@ -15,4 +15,4 @@ guess-fish="weekly_1.fish_ml:guess_fish"
 
 
 [tool.pdm]
-distribution = false
+distribution = true 
