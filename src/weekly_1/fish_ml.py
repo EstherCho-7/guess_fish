@@ -14,7 +14,7 @@ def guess_fish():
 
         if fish_data:
             if len(fish_data)<k:
-                model.set_params(k=len(fish_data))
+                model.set_params(n_neighbors=len(fish_data))
 
             prediction=model.predict([[length, weight]])
             predicted_type="도미" if prediction[0]==1 else "빙어"
