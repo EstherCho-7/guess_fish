@@ -59,5 +59,5 @@ $ guess-fish
 $ plot
 ```
 ## Result
-![image](https://github.com/user-attachments/assets/bf79252c-d033-4ded-a4f8-8d45e3d3fc4c)
+![image](https://github.com/user-attachments/assets/93837f7c-f2ec-4e44-b0b4-fbadcf3b7e57)
 
