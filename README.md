@@ -11,6 +11,7 @@
 
 ## Install
 ```bash
+$ pip install weekly_1
 $ pip install git+https://github.com/EstherCho-7/guess_fish.git@<Branch Name>
 
 # or for dev
